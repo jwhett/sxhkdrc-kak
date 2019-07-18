@@ -1,6 +1,6 @@
 # SXHKDRC-KAK
 
-Highlighter for `sxhkdrc` files.
+Highlighter for [`sxhkd`](https://github.com/baskerville/sxhkd) confinguration files.
 
 ### Installation
 
