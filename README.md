@@ -5,5 +5,5 @@ Highlighter for [`sxhkd`](https://github.com/baskerville/sxhkd) confinguration f
 ### Installation
 
 ```sh
-cp sxhkdrc.kak ~/.local/share/kak/rc/filetype/
+cp rc/filetype/sxhkdrc.kak ~/.local/share/kak/rc/filetype/
 ```
