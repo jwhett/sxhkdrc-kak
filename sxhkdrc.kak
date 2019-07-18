@@ -35,7 +35,6 @@ add-highlighter shared/sxhkdrc/singleq region "'" "'" fill value
 add-highlighter shared/sxhkdrc/doubleq region '"' '"' fill value
 add-highlighter shared/sxhkdrc/evaluate-commands region -recurse '\(' '\$\(' '\)' fill value
 
-add-highlighter shared/sxhkdrc/content/ regex ^[\w.%-]+\h*:\s 0:variable
 add-highlighter shared/sxhkdrc/content/ regex XF86[a-zA-Z0-9]* 0:operator
 add-highlighter shared/sxhkdrc/content/ regex F[0-9]{1,2} 0:operator
 add-highlighter shared/sxhkdrc/content/ regex "[&\|,+@;]" 0:operator
