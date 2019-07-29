@@ -2,8 +2,15 @@
 
 Highlighter for [`sxhkd`](https://github.com/baskerville/sxhkd) confinguration files.
 
+
 ### Installation
 
-```sh
-cp rc/filetype/sxhkdrc.kak ~/.local/share/kak/rc/filetype/
+Install with [`plug`](https://github.com/andreyorst/plug.kak):
+
 ```
+# In ~/.config/kak/kakrc
+plug "jwhett/sxhkdrc-kak"
+```
+
+and `:plug-install`
+
